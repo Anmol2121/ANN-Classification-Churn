@@ -3,5 +3,5 @@ streamlit-lottie
 tensorflow==2.17.0
 keras
 setuptools
-numpy
+scikit-learn
 
