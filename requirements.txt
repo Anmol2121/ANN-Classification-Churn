@@ -2,5 +2,5 @@ streamlit-option-menu
 streamlit-lottie
 tensorflow==2.17.0
 keras
-setuptools==65.5.0
+setuptools
 numpy
