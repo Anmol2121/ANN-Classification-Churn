@@ -1,2 +1,6 @@
 streamlit-option-menu
 streamlit_lottie
+tensorflow
+keras
+pickle
+PIL
