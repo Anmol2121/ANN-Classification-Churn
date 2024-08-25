@@ -2,4 +2,3 @@ streamlit-option-menu
 streamlit-lottie
 tensorflow
 keras
-PIL
