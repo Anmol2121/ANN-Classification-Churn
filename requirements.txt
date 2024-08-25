@@ -1,1 +1,2 @@
 pip install streamlit-option-menu
+pip install --upgrade pip
